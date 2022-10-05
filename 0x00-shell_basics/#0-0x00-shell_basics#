@@ -1,0 +1,5 @@
+#!/bin/bash
+pwd
+C-x C-s
+emacs 0-0x00-shell_basics
+C-x C-c
