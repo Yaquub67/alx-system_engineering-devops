@@ -1,1 +1,1 @@
-replacement 
+remove all c input 
