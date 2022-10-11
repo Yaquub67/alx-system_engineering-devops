@@ -1,1 +1,1 @@
-display all the lines 
+letters  only 
