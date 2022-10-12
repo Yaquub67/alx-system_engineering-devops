@@ -1,1 +1,1 @@
-global  variable 
+global variable 
